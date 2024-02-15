@@ -1,5 +1,5 @@
 # testingGit
-This is my first time using GitHub so i'm gonna test it.
+This is my first time using GitHub so i'm gonna test it with a Java Exercise.
 
     /*
     We will check a simple exercise, the "Spider-man" sample.
